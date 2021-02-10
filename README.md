@@ -5,7 +5,7 @@ The detection of the most important nodes in a graph-database (or network datase
 Basically any dataset that can be described through a set of nodes or entities, and a set of links describing how these entities interact or relate between them.
 In a network graph people are represented by nodes, and links represent the different social ties between them (friendship, collaboration, common hobbies, etc.).
 
-The file [lesmiserables.gml](https://github.com/extendi/les-miserables/blob/main/data/lesmiserables.gml) is the network representation of the interactions between major characters in the novel Les Misérables The weight of the edge (attribute value in the file) between each node also indicates how often co-appearances between characters occur throughout the novel. Therefore, a thicker the edge informs us that those characters appear together more often than those with a thinner edge. 
+The file [lesmiserables.gml](https://github.com/extendi/les-miserables/blob/main/data/lesmiserables.gml) is the network representation of the interactions between major characters in the novel Les Misérables The weight of the edge (attribute value in the file) between each node also indicates how often co-appearances between characters occur throughout the novel. Therefore, a thicker edge informs us that those characters appear together more often than those with a thinner edge. 
 
 ## Project scope
 
