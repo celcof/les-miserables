@@ -1,234 +1,311 @@
 {
   "nodes":[
      {
+        "id":1,
         "name":"Myriel"
      },
      {
+        "id":2,
         "name":"Napoleon"
      },
      {
+        "id":3,
         "name":"Mlle.Baptistine"
      },
      {
+        "id":4,
         "name":"Mme.Magloire"
      },
      {
+        "id":5,
         "name":"CountessdeLo"
      },
      {
+        "id":6,
         "name":"Geborand"
      },
      {
+        "id":7,
         "name":"Champtercier"
      },
      {
+        "id":8,
         "name":"Cravatte"
      },
      {
+        "id":9,
         "name":"Count"
      },
      {
+        "id":10,
         "name":"OldMan"
      },
      {
+        "id":11,
         "name":"Labarre"
      },
      {
+        "id":12,
         "name":"Valjean"
      },
      {
+        "id":13,
         "name":"Marguerite"
      },
      {
+        "id":14,
         "name":"Mme.deR"
      },
      {
+        "id":15,
         "name":"Isabeau"
      },
      {
+        "id":16,
         "name":"Gervais"
      },
      {
+        "id":17,
         "name":"Tholomyes"
      },
      {
+        "id":18,
         "name":"Listolier"
      },
      {
+        "id":19,
         "name":"Fameuil"
      },
      {
+        "id":20,
         "name":"Blacheville"
      },
      {
+        "id":21,
         "name":"Favourite"
      },
      {
+        "id":22,
         "name":"Dahlia"
      },
      {
+        "id":24,
         "name":"Zephine"
      },
      {
+        "id":25,
         "name":"Fantine"
      },
      {
+        "id":26,
         "name":"Mme.Thenardier"
      },
      {
+        "id":27,
         "name":"Thenardier"
      },
      {
+        "id":28,
         "name":"Cosette"
      },
      {
+        "id":29,
         "name":"Javert"
      },
      {
+        "id":30,
         "name":"Fauchelevent"
      },
      {
+        "id":31,
         "name":"Bamatabois"
      },
      {
+        "id":32,
         "name":"Perpetue"
      },
      {
+        "id":33,
         "name":"Simplice"
      },
      {
+        "id":34,
         "name":"Scaufflaire"
      },
      {
+        "id":35,
         "name":"Woman1"
      },
      {
+        "id":36,
         "name":"Judge"
      },
      {
+        "id":37,
         "name":"Champmathieu"
      },
      {
+        "id":38,
         "name":"Brevet"
      },
      {
+        "id":39,
         "name":"Chenildieu"
      },
      {
+        "id":40,
         "name":"Cochepaille"
      },
      {
+        "id":41,
         "name":"Pontmercy"
      },
      {
+        "id":42,
         "name":"Boulatruelle"
      },
      {
+        "id":43,
         "name":"Eponine"
      },
      {
+        "id":44,
         "name":"Anzelma"
      },
      {
+        "id":45,
         "name":"Woman2"
      },
      {
+        "id":46,
         "name":"MotherInnocent"
      },
      {
+        "id":47,
         "name":"Gribier"
      },
      {
+        "id":48,
         "name":"Jondrette"
      },
      {
+        "id":49,
         "name":"Mme.Burgon"
      },
      {
+        "id":50,
         "name":"Gavroche"
      },
      {
+        "id":51,
         "name":"Gillenormand"
      },
      {
+        "id":52,
         "name":"Magnon"
      },
      {
+        "id":53,
         "name":"Mlle.Gillenormand"
      },
      {
+        "id":54,
         "name":"Mme.Pontmercy"
      },
      {
+        "id":55,
         "name":"Mlle.Vaubois"
      },
      {
+        "id":56,
         "name":"Lt.Gillenormand"
      },
      {
+        "id":57,
         "name":"Marius"
      },
      {
+        "id":58,
         "name":"BaronessT"
      },
      {
+        "id":59,
         "name":"Mabeuf"
      },
      {
+        "id":60,
         "name":"Enjolras"
      },
      {
+        "id":61,
         "name":"Combeferre"
      },
      {
+        "id":62,
         "name":"Prouvaire"
      },
      {
+        "id":63,
         "name":"Feuilly"
      },
      {
+        "id":64,
         "name":"Courfeyrac"
      },
      {
+        "id":65,
         "name":"Bahorel"
      },
      {
+        "id":66,
         "name":"Bossuet"
      },
      {
+        "id":67,
         "name":"Joly"
      },
      {
+        "id":68,
         "name":"Grantaire"
      },
      {
+        "id":69,
         "name":"MotherPlutarch"
      },
      {
+        "id":70,
         "name":"Gueulemer"
      },
      {
+        "id":71,
         "name":"Babet"
      },
      {
+        "id":72,
         "name":"Claquesous"
      },
      {
+        "id":73,
         "name":"Montparnasse"
      },
      {
+        "id":74,
         "name":"Toussaint"
      },
      {
+        "id":75,
         "name":"Child1"
      },
      {
+        "id":76,
         "name":"Child2"
      },
      {
+        "id":77,
         "name":"Brujon"
      },
      {
+        "id":80,
         "name":"Mme.Hucheloup"
      }
   ],
