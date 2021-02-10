@@ -13,7 +13,7 @@ Generate the network graph on [Neo4j](https://neo4j.com/), you can start a local
 Create a [ruby](https://www.ruby-lang.org/it/) project/script to import the network and run some analysis on it. If you are more confident with a different programming language, use it!
 
 1. Add nodes/edges to the graph;
-2. run a clustering algorithm to detect main charachers group;
+2. run a clustering algorithm to detect main charachers groups;
 3. detect most central characters;
 4. try to visualize the network and cluster using the library you prefer, could be js, d3, networkx, or whathever library you prefer.
 
