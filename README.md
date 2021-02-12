@@ -17,4 +17,11 @@ Create a [ruby](https://www.ruby-lang.org/it/) project/script to import the netw
 3. detect most central characters;
 4. try to visualize the network and cluster using the library you prefer, could be js, d3, networkx, or whathever library you prefer.
 
+## To run it
 
+docker build -t neo4j:seed . 
+docker run -name lm -it -d neo4j:seed
+docker exec -it lm cypher-shell
+
+username: neo4j
+password: neo4j_seed
