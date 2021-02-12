@@ -19,9 +19,9 @@ Create a [ruby](https://www.ruby-lang.org/it/) project/script to import the netw
 
 ## To run it
 
-docker build -t neo4j:seed . 
-docker run -name lm -it -d neo4j:seed
-docker exec -it lm cypher-shell
+docker build -t neo4j:seed .  
+docker run -name lm -it -d neo4j:seed  
+docker exec -it lm cypher-shell  
 
-username: neo4j
+username: neo4j  
 password: neo4j_seed
